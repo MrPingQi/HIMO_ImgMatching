@@ -1,6 +1,9 @@
 # HIMO_ImgMatching
 HIMO: Cross-Arbitrary-Modality Image Invariant Feature Transform with Hierarchical Intrinsic Major Orientation
 
+General Cross-Modal Image Matching:
+![image](HIMO_thumb.jpg)
+
 A new image matching method of traditional handcrafted framework with the following effects: (2025.03.20)
 <table>
   <tr>
