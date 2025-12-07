@@ -9,10 +9,10 @@ A new image matching method of traditional handcrafted framework with the follow
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/MrPingQi/HOMO-Feature_ImgMatching/blob/main/2025-03-20_matching_animated_1.gif"/>
+      <img src="2025-03-20_matching_animated_1.gif"/>
     </td>
     <td align="center">
-      <img src="https://github.com/MrPingQi/HOMO-Feature_ImgMatching/blob/main/2025-03-20_matching_animated_2.gif"/>
+      <img src="2025-03-20_matching_animated_2.gif"/>
     </td>
   </tr>
 </table>
