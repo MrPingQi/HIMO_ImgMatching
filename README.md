@@ -5,6 +5,7 @@ General Cross-Modal Image Matching:
 ![image](HIMO_thumb.jpg)
 
 A new image matching method of traditional handcrafted framework with the following effects: (2025.03.20)
+
 Affine distorsion:
 <table>
   <tr>
@@ -21,7 +22,7 @@ Affine distorsion:
   </tr>
 </table>
 
-Projective/Perspective/Homography distorsion:
+Projective / Perspective / Homography distorsion:
 <table>
   <tr>
     <td align="center">One-stage</td>
