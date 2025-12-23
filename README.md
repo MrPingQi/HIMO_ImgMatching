@@ -6,7 +6,7 @@ General Cross-Modal Image Matching:
 
 A new image matching method of traditional handcrafted framework with the following effects: (2025.03.20)
 
-Affine distorsion:
+Affine (rotation + scaling) distorsion:
 <table>
   <tr>
     <td align="center">One-stage</td>
