@@ -20,6 +20,21 @@ A new image matching method of traditional handcrafted framework with the follow
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center">One-stage</td>
+    <td align="center">Two-stage</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="2025-03-20_matching_animated_3.gif"/>
+    </td>
+    <td align="center">
+      <img src="2025-03-20_matching_animated_4.gif"/>
+    </td>
+  </tr>
+</table>
+
 General Cross-Modal Image Matching:
 ![image](display1.jpg)
 
