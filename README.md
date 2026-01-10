@@ -14,10 +14,10 @@ Affine (rotation + scaling) distorsion:
   </tr>
   <tr>
     <td align="center">
-      <img src="2025-03-20_matching_animated_1.gif"/>
+      <img src="misc/2025-03-20_matching_animated_1.gif"/>
     </td>
     <td align="center">
-      <img src="2025-03-20_matching_animated_2.gif"/>
+      <img src="misc/2025-03-20_matching_animated_2.gif"/>
     </td>
   </tr>
 </table>
@@ -30,19 +30,19 @@ Projective / Perspective / Homography distorsion:
   </tr>
   <tr>
     <td align="center">
-      <img src="2025-03-20_matching_animated_3.gif"/>
+      <img src="misc/2025-03-20_matching_animated_3.gif"/>
     </td>
     <td align="center">
-      <img src="2025-03-20_matching_animated_4.gif"/>
+      <img src="misc/2025-03-20_matching_animated_4.gif"/>
     </td>
   </tr>
 </table>
 
 General Cross-Modal Image Matching:
-![image](display1.jpg)
+![image](misc/display1.jpg)
 
 Datasets Matching Performance:
-![image](display2.jpg)
+![image](misc/display2.jpg)
 
 Dense-like Matching Performance:
-![image](display3.jpg)
+![image](misc/display3.jpg)
