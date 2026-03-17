@@ -7,7 +7,7 @@ Paper Link:
 If you have any queries or suggestions, please do not hesitate to contact me (gao-pingqi@qq.com). If you are from China, you may just speak Chinese~ 中国人直接说中文就可以了~
 
 
-## 📈 Matching Performance 
+## 📈 Matching Performance
 A new image matching method of traditional handcrafted framework with the following effects: (2025.03.20)
 
 Affine (rotation + scaling) distorsion:
