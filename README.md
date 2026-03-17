@@ -55,16 +55,14 @@ Dense-like Matching Performance:
 
 
 ## 📦 Datasets Release
-![image](misc/Dataset_GCZ.jpg)
 *** Full GCZ dataset ***
-
+![image](misc/Dataset_GCZ.jpg)
 Google Drive: 
 
 Baidu Netdisk: 
 
-![image](misc/Dataset_WDS.jpg)
 *** Full WDS dataset ***
-
+![image](misc/Dataset_WDS.jpg)
 Google Drive: 
 
 Baidu Netdisk: 
