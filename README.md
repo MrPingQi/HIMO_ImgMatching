@@ -52,7 +52,6 @@ Dense-like Matching Performance:
 ![image](misc/display3.jpg)
 
 
-
 ## 📦 Datasets Release
 *** Full GCZ dataset ***
 ![image](misc/Dataset_GCZ.jpg)
@@ -83,7 +82,6 @@ Baidu Netdisk: https://pan.baidu.com/s/
 *[2] Y. Yao, Y. Zhang, Y. Wan, X. Liu, X. Yan, and J. Li, “Multi-modal remote sensing image matching considering co-occurrence filter,” IEEE Transactions on Image Processing, vol. 31, pp. 2584–2597, 2022.*
 
 *[3] J. Li, Q. Hu, and Y. Zhang, “Multimodal image matching: A scale invariant algorithm and an open dataset,” ISPRS Journal of Photogrammetry and Remote Sensing, vol. 204, pp. 77–88, 2023.*
-
 
 
 ## 📚 Citation
