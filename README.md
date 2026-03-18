@@ -87,5 +87,11 @@ Baidu Netdisk: https://pan.baidu.com/s/
 ## 📚 Citation
 If you find our work useful in your research, please consider citing:
 ```bibtex
-
+@article{gao2026himo,
+  author={Gao, Chenzhong and Li, Wei and Weng, Desheng and Tao, Ran and Xia, Xiang-Gen and Du, Qian},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={{HIMO}: Cross-Arbitrary-Modality Image Invariant Feature Transform with Hierarchical Intrinsic Major Orientation}, 
+  year={2026},
+  pages={1-18},
+  publisher={IEEE}
 ```
