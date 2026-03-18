@@ -2,7 +2,7 @@
 
 ![image](misc/HIMO_thumb.jpg)
 
-Paper Link: 
+Paper Link: https://ieeexplore.ieee.org/document/11435911/
 
 If you have any queries or suggestions, please do not hesitate to contact me (gao-pingqi@qq.com). If you are from China, you may just speak Chinese~ 中国人直接说中文就可以了~
 
