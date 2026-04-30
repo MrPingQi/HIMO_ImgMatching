@@ -85,6 +85,6 @@ if int_flag
     magnitude(magnitude<=thr) = 0;
     magnitude(magnitude> thr) = 1;
 else
-    magnitude = idx.*magnitude1 + (1-idx).*magnitude2;
+    magnitude = idx.*magnitude(:,:,1) + (1-idx).*magnitude(:,:,2);
     magnitude = magnitude.^(1/4);
 end
