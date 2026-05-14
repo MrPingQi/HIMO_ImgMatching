@@ -57,13 +57,17 @@ Dense-like Matching Performance:
 ** The author is now busy with graduation, causing a delay of datasets release. The datasets and revised labels will be publicly available soon.
 
 *** Full GCZ dataset ***
+
 ![image](misc/Dataset_GCZ.jpg)
+
 Google Drive: <!--https://drive.google.com/file/d/-->
 
 Baidu Netdisk: <!--https://pan.baidu.com/s/-->
 
 *** Full WDS dataset ***
+
 ![image](misc/Dataset_WDS.jpg)
+
 Google Drive: <!--https://drive.google.com/file/d/-->
 
 Baidu Netdisk: <!--https://pan.baidu.com/s/-->
