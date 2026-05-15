@@ -68,7 +68,7 @@ Baidu Netdisk: <!--https://pan.baidu.com/s/-->
 
 ![image](misc/Dataset_WDS.jpg)
 
-Google Drive: <!--https://drive.google.com/file/d/-->
+Google Drive: https://drive.google.com/drive/folders/1wxwu0ZAR2a0HA9rEfC11guZsw3cksYZu?usp=sharing
 
 Baidu Netdisk: https://pan.baidu.com/s/1bLRDeKDOGg8BlEye8glVIQ?pwd=be6r
 
