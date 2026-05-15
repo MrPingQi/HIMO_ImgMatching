@@ -70,7 +70,7 @@ Baidu Netdisk: <!--https://pan.baidu.com/s/-->
 
 Google Drive: <!--https://drive.google.com/file/d/-->
 
-Baidu Netdisk: <!--https://pan.baidu.com/s/-->
+Baidu Netdisk: https://pan.baidu.com/s/1bLRDeKDOGg8BlEye8glVIQ?pwd=be6r
 
 *** Revised MRSI<sup>[1-2]</sup> dataset labels ***
 
