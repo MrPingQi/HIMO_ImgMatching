@@ -62,7 +62,7 @@ Dense-like Matching Performance:
 
 Google Drive: <!--https://drive.google.com/file/d/-->
 
-Baidu Netdisk: <!--https://pan.baidu.com/s/-->
+Baidu Netdisk: https://pan.baidu.com/s/10d-xgjO15qu9sjRZVanJAQ?pwd=dgcz
 
 *** Full WDS dataset ***
 
