@@ -74,9 +74,9 @@ Baidu Netdisk: https://pan.baidu.com/s/1n6GrHdKKTSMmTXaMe88IBg?pwd=dwds
 
 *** Revised MRSI<sup>[1-2]</sup> dataset labels ***
 
-Google Drive: https://drive.google.com/file/d/1nMq6tzprdqRtsCc-rUwOeiMbxukTrgpU/view?usp=drive_link
+Google Drive: https://drive.google.com/file/d/1joFkfeCJnGtkL9zZp2FSR0ZTr0wBP5zj/view?usp=sharing
 
-Baidu Netdisk: https://pan.baidu.com/s/1A3yzQEFSXLF_7hF3qDOlqw?pwd=mrsi
+Baidu Netdisk: https://pan.baidu.com/s/1LwqD7OBxQDFpxatWIO56Rw?pwd=mrsi
 
 *** Revised SRIF<sup>[3]</sup> dataset labels ***
 
