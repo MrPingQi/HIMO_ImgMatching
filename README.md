@@ -86,9 +86,9 @@ Baidu Netdisk: https://pan.baidu.com/s/1LwqD7OBxQDFpxatWIO56Rw?pwd=mrsi
 
 *** Revised SRIF<sup>[3]</sup> dataset labels ***
 
-Google Drive: <!--https://drive.google.com/file/d/-->
+Google Drive: https://drive.google.com/file/d/1ODZDtKcN_7KkvXk4XOQhSOqCVWGK0tp4/view?usp=sharing
 
-Baidu Netdisk: <!--https://pan.baidu.com/s/-->
+Baidu Netdisk: https://pan.baidu.com/s/14GsQMeiYV_8kTP5CZiSX1w?pwd=srif
 
 <br>
 
