@@ -54,8 +54,6 @@ Dense-like Matching Performance:
 
 ## 📦 Datasets Release
 
-** The author is now busy with graduation, causing a delay of datasets release. The datasets and revised labels will be publicly available soon.
-
 *** Full GCZ dataset ***
 
 ![image](misc/Dataset_GCZ.jpg)
