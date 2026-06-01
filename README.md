@@ -114,3 +114,12 @@ If you find our work useful in your research, please consider citing:
   publisher={IEEE}
 }
 ```
+
+<br>
+
+## ❓ Open Questions & Issues
+Here we discover several remaining problems & issues in HIMO that could be focused on.
+
+1) The keypoint detector based on phase congruency produces strong edge effects in images. The current approach is to directly set the keypoint response values to zero within a preset range near the image edges, which is rather inelegant. First, it is difficult to determine the exact extent of the edge effect. Second, this results in wasting potentially useful texture feature locations at the edges. Is there any good solutions available at present?
+
+2) The multi-scale strategy in HIMO still essentially relies on an exhaustive scale-space approach to accommodate scale differences between images, making it difficult to adaptively derive scale ratios as SIFT does to achieve true “scale-invariance”. This is because cross-modal images do not follow a unified degradation model, which appears to be a challenging problem to solve at present.
